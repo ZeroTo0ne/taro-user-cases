@@ -651,6 +651,10 @@ const userCases = {
     {
       name: "AI体验中心",
       url: "https://raw.githubusercontent.com/178518/weapp-assets/main/src/images/mini-program.jpg"
+    },
+    {
+      name: "星贝保险",
+      url: "https://user-images.githubusercontent.com/13925302/99869910-c5375e00-2c09-11eb-9f7f-eb445606a9b9.jpg"
     }
   ],
   H5: [
